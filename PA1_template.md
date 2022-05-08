@@ -322,6 +322,7 @@ ggplot(data = clean_data_steps_dow,mapping = aes(x=interval, y=total_daily_steps
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-14-1.png)<!-- -->
+Made 1 change so I could do a subsequent commit.
 
 
 
